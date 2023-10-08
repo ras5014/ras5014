@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014" alt="ras5014" /></a> </p> -->
 
-<img align="right" width="400" src="https://gifer.com/embed/En1y" alt="Developer Image">
+<img align="right" width="400" src="./coder.gif" alt="Developer Image">
 
 - 🔭 I’m currently working on **MERN Stack end-to-end projects.**
 
