@@ -16,7 +16,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014" alt="ras5014" /></a> </p> -->
 
-<img align="right" width="400" src="https://i.gifer.com/En1y.gif" alt="Developer Image">
+<!-- <img align="right" width="400" src="https://i.gifer.com/En1y.gif" alt="Developer Image"> -->
+<iframe align="right" src="https://gifer.com/embed/En1y" width=480 height=343.579 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🔭 I’m currently working on **MERN Stack end-to-end projects.**
 
