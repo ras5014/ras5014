@@ -12,11 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20New%20World%20of%20CODING&center=true&width=500&height=50">
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ras5014&label=Profile%20views&color=0e75b6&style=flat" alt="ras5014" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ras5014&label=Profile%20views&color=0e75b6&style=flat" alt="ras5014" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014" alt="ras5014" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014" alt="ras5014" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014&theme=discord&no-frame=false&no-bg=true&margin-w-4" alt="ras5014" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014&theme=discord&no-frame=false&no-bg=true&margin-w-4" alt="ras5014" /></a> </p> -->
 
 <img align="right" width="300" src="./coder.gif" alt="Developer Image">
 
