@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **ramanandasamantaray@gmail.com**
 
-- ⚡ Fun fact **I love playing CHESS, watching movies & Coding so Code with me**
+- ⚡ Fun fact **I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
