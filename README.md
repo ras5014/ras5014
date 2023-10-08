@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014" alt="ras5014" /></a> </p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width= "500" src="https://github-profile-trophy.vercel.app/?username=ras5014&theme=discord&no-frame=false&no-bg=true&margin-w=1" alt="ras5014" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014&theme=discord&no-frame=false&no-bg=true&margin-w-2" alt="ras5014" /></a> </p>
 
 <img align="right" width="300" src="./coder.gif" alt="Developer Image">
 
