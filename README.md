@@ -12,11 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20New%20World%20of%20CODING&center=true&width=500&height=50">
 </p>
 
-<img align="right" width="400" src="https://i.gifer.com/En1y.gif" alt="Developer Image">
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ras5014&label=Profile%20views&color=0e75b6&style=flat" alt="ras5014" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras5014" alt="ras5014" /></a> </p> -->
+
+<img align="right" width="400" src="https://i.gifer.com/En1y.gif" alt="Developer Image">
 
 - 🔭 I’m currently working on **MERN Stack end-to-end projects.**
 
